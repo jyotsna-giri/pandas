@@ -1,0 +1,1 @@
+This repo contains practice jupyter notebooks used by me in Scaler ML course.
